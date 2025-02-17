@@ -16,7 +16,7 @@ A responsive web-based survey form for educational institutions to gather inform
 - HTML5
 - CSS3
 - JavaScript
-- jQuery 3.6.0
+
 
 ## Form Sections
 
@@ -35,7 +35,6 @@ The form collects information about:
 2. Open [index.html](index.html) in a web browser or use Live Server
 3. For development, use VS Code with Live Server extension (port 5502)
 
-## Project Structure
 
 
 
